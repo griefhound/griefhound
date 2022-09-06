@@ -1,4 +1,6 @@
-//Characters
+The Tournament Faction
+
+//Characters 16
 Wanton Wizard 4
 
 Heist Planner 4
@@ -8,11 +10,10 @@ Master Scavenger 3
 
 Fired Hand 1
 Ashara, Gideons Twin 1
-Martial Artist 1 
 
 Sadistic Colonel
 
-//Tactics
+//Tactics 40
 Cowslaw 4
 Obsessive Compulsion 4
 
@@ -34,13 +35,15 @@ Inhibit 4
 Drygulch 4
 Bug Bite 3
 
-//Locations
+//Locations 4
 Fornicaves 4
 
-//Items
+//Items 4
 Super Shiny Caltrops of DOOM! 4
 
-//Resources 
+//Resources 11
 Treachery 4
-Deception 6
+Deception 5
+Rage 1 [S]
+Obsession 1 [S]
 
